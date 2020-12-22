@@ -17,7 +17,9 @@ Instructions: <br>
 
 The blue : original PWM curve
 The red : tuned circuit + vactrol curve
-
 <img src="serial plotter sample.png"></img><br>
+
+Actual PCB<br>
 <img src="vactrol tracer 1.jpg"></img><br>
 <img src="vactrol tracer 2.jpg"></img><br>
+
