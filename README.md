@@ -14,3 +14,6 @@ Instructions: <br>
 3)connect the Arduino to the computer via USB cable<br>
 4)open the arduino code and upload to the MCU<br>
 5)open Serial Plotter (inside Tools menu of the Arduino Ide)<br>
+
+<img src="vactrol tracer 1.jpg"></img><br>
+<img src="vactrol tracer 2.jpg"></img><br>
