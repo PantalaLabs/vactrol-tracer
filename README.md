@@ -1,5 +1,5 @@
-# vactrol-tracer
-Vactrol Tracer <br>
+# Vactrol Tracer
+
 Is a software and Hardware tool to trace vactrol´s response<br>
 This way you can try as many leds and as many ldrs you want to create a linear response.<br>
 Wow does it works? The arduino creates a PWM curve and reads the circuit output voltage<br>
