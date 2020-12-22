@@ -1,15 +1,16 @@
 # vactrol-tracer
 Vactrol Tracer <br>
-Is a software and Hardware solution to trace vactrol´s behavior<br>
-This way you can experiment as many leds and as many ldrs you want to create a linear response.<br>
-The arduino creates a PWM curve and reads back this output voltage<br>
+Is a software and Hardware tool to trace vactrol´s response<br>
+This way you can try as many leds and as many ldrs you want to create a linear response.<br>
+Wow does it works? The arduino creates a PWM curve and reads the circuit output voltage<br>
 3 adjustments are available:<br>
 -Leak<br>
 -Curve<br>
 -Gain<br>
-Be careful with these controls. THERE IS NO ADC INPUT VOLTAGE PROTECTION !!!!!!!<br>
+Be careful with Gain control. THERE IS NO ADC INPUT VOLTAGE PROTECTION !!!!!!!<br>
 Instructions: <br>
-1)populate PCB and check for shorts. Needs 9VDC.<br>
-2)plug it into an Arduino Uno<br>
-3)Upload the code<br>
-4)Open Serial Plotter (inside Tools menu of the Arduino Ide)<br>
+1)build PCB and connect the board into an Arduino Uno
+2)connect an external 9VDC adapter into PCB power jack.<br>
+3)connect the Arduino to the computer via USB cable<br>
+4)open the arduino code and upload to the MCU<br>
+5)open Serial Plotter (inside Tools menu of the Arduino Ide)<br>
