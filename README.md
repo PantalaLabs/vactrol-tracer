@@ -3,6 +3,7 @@
 Is a software/hardware tool to trace vactrol´s response<br>
 This way you can try your custom made vactrol and tune the circuit to your desired response.<br>
 How does it work? The arduino creates a PWM curve and reads the circuit output voltage<br>
+0 to 5 volt range.<br>
 3 adjustments are available:<br>
 -Leak<br>
 -Curve<br>
