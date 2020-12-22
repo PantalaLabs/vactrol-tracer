@@ -1,6 +1,6 @@
 /* Vactrol Tracer
 Vactrol Tracer 
-Is a software and Hardware tool to trace vactrol´s response
+Is a software and Hardware tool to tune vactrol´s response
 This way you can try your custom made vactrol and tune the circuit to your desired response.
 How does it work? The arduino creates a PWM curve and reads the circuit output voltage
 3 adjustments are available:
