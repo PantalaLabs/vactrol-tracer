@@ -16,7 +16,8 @@ Instructions:
 5)open Serial Plotter (inside Tools menu of the Arduino Ide)
 
 By Gibran Salomao
-
+Pantala Labs
+www.pantalalabs.com
  */
 #include <Arduino.h>
 #define VACTROLREADPIN 0
