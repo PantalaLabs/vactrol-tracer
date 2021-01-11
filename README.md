@@ -10,7 +10,7 @@ How does it work? The arduino creates a PWM curve and reads the circuit output v
 -Gain<br>
 Be careful with Gain control. THERE IS NO ADC INPUT VOLTAGE PROTECTION !!!!!!!<br>
 Instructions: <br>
-1)build PCB and connect the board as a shield on an Arduino Uno
+1)build PCB and connect the board as a shield on an Arduino Uno <br>
 2)connect an external 9VDC adapter into PCB power jack.<br>
 3)connect the Arduino to the computer via USB cable<br>
 4)open the arduino code and upload to the MCU<br>
